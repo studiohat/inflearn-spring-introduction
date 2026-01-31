@@ -1,4 +1,4 @@
-# infren-spring-introduction
+# inflearn-spring-introduction
 
 인프런 김영한님 실습 예제 코드입니다.
 
